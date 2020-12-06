@@ -5,5 +5,5 @@ Professor: Fernando Masanori
 
 Integrantes:
 
-Matheus Rothstein
-Vitor Henrique
+- Matheus Rothstein
+- Vitor Henrique
